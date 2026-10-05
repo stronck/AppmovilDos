@@ -17,4 +17,3 @@ Proyecto Android en Java conservado a partir de la aplicación funcional incluid
 5. Compilación de la actividad principal.
 6. Ejecución de una interfaz Android funcional.
 
-Se excluyen archivos generados por Android Studio/Gradle (.gradle, .idea, local.properties, .DS_Store, .iml) porque no son necesarios para compilar o ejecutar la aplicación.
